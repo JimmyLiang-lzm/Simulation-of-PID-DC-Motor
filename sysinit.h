@@ -13,10 +13,10 @@ ALE: Disable
 EA: Disable
 */
 
-/*	Header of Address Definition	*/
+/* Header of Address Definition	*/
 #include<reg51.h>
 
-/*	Timer Setting	*/
+/* Timer Setting */
 #ifndef THC0
 #define THC0 0xF9
 #endif
@@ -24,5 +24,5 @@ EA: Disable
 #define TLC0 0x0F
 #endif
 
-/*	Definition of Function	*/
+/* Definition of Function */
 void sysInit();
