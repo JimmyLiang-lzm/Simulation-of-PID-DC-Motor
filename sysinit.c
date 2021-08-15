@@ -1,4 +1,4 @@
-//Code for AT89C51 Initialization
+// Code for AT89C51 Initialization
 
 #include<reg51.h>
 #include<sysinit.h>
@@ -30,7 +30,7 @@ Result:
 +------+-------+-----------+----------------+
 */
 
-/*	Definition of Motor Rotation*/
+/* Definition of Motor Rotation */
 sbit IN1 = P3^0;
 sbit IN2 = P3^1;
 
