@@ -1,5 +1,5 @@
-//PID¿ØÖÆ´úÂë
-//²Î¿¼×ÊÁÏ: https://zhuanlan.zhihu.com/p/84767869
+//PIDæ§åˆ¶ä»£ç 
+//å‚è€ƒèµ„æ–™: https://zhuanlan.zhihu.com/p/84767869
 
 #define T 1
 #define kp 1
