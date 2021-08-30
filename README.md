@@ -13,7 +13,7 @@
 3. 若需要修改源代码可**Clone**软件代码进行修改，注释已在代码中标出。
 
 ### 4. 更多
-可以进入我的个人博客[Jimmy's TechBlog](https://zmtblog.site)进行查看。
+可以进入我的个人博客[Jimmy's TechBlog](https://jimmyliang-lzm.github.io)进行查看。
 
 
 ## PID DC motor control system simulation based on AT89C52 single chip microcomputer
@@ -31,5 +31,5 @@ The compiled operating environment is the `Atmel AT89C52` microcontroller platfo
 3. If you need to modify the source code, you can modify the **Clone** software code, and the comments have been marked in the code.
 
 ### 4. More
-You can enter my personal blog [Jimmy's TechBlog](https://zmtblog.site) to view it.
+You can enter my personal blog [Jimmy's TechBlog](https://jimmyliang-lzm.github.io) to view it.
 
